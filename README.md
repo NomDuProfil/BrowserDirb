@@ -6,3 +6,5 @@ FILE_DIRB dans le fichier webdirb.py.
 Lancez le programme : python webdirb.py
 
 Les boutons en haut à gauche permettent d'avancer, ou de reculer dans la liste.
+
+ATTENTION : L'outil ne permet pas d'afficher certains documents comme les XML!
